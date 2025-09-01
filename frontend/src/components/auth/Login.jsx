@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useAuth } from "../../hooks/useAuth";
-import authApi from "../../api/auth";
+import authApi from "../api/auth";
 import Input from "../ui/Input";
 import Button from "../ui/Button";
 
